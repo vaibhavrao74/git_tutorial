@@ -1,0 +1,1 @@
+print("third year ki bakchodi h ye")
